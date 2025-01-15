@@ -1,2 +1,2 @@
 # creative-projects
-Projects that I'm doing for learning purposes.
+This repository includes projects that I'm doing for learning purposes.
